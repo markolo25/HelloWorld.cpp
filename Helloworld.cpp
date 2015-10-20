@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-        std::cout << "Go Beach!" << std::endl;
+        std::cout << "UCLA is alright" << std::endl;
 }
 
